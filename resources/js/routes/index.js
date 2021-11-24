@@ -30,7 +30,7 @@ export default {
         {
             path: '/search',
             name: 'searchuser',
-            component: SearchUserl,
+            component: SearchUser,
         },
     ]
 }
